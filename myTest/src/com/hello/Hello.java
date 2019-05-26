@@ -6,5 +6,6 @@ public class Hello {
 	}*/
 	public void fun(){
 		System.out.println("我爱你");
+		System.out.println("杨玉环");
 	}
 }
